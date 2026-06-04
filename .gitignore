@@ -1,0 +1,44 @@
+# OS
+.DS_Store
+.bundle
+.env
+.expo-shared/
+.expo/
+*.swp
+*.lock
+*~
+.vscode/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Android
+.gradle
+local.properties
+*.iml
+*.hprof
+.cxx
+.idea
+build/
+captures/
+android/app/debug.keystore
+
+# iOS
+.xcworkspace/
+xcuserdata/
+DerivedData/
+Podfile.lock
+Pods/
+build/
+
+# React Native
+.watchmanconfig
+.flowconfig
+.buckconfig
+.prettierrc.js
+.eslintrc.js
+
+# SIP/WebRTC logs
+*.log
